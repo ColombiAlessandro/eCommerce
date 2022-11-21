@@ -1,0 +1,11 @@
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\bin\Debug\eCommerceColombi.exe.config
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\bin\Debug\eCommerceColombi.exe
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\bin\Debug\eCommerceColombi.pdb
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\obj\Debug\eCommerceColombi.csproj.AssemblyReference.cache
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\obj\Debug\eCommerceColombi.csproj.SuggestedBindingRedirects.cache
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\obj\Debug\eCommerceColombi.Form1.resources
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\obj\Debug\eCommerceColombi.Properties.Resources.resources
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\obj\Debug\eCommerceColombi.csproj.GenerateResource.cache
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\obj\Debug\eCommerceColombi.csproj.CoreCompileInputs.cache
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\obj\Debug\eCommerceColombi.exe
+C:\Users\colombi.19314\Desktop\VisualizzatoreScrittoreColombi\eCommerce\eCommerceColombi\obj\Debug\eCommerceColombi.pdb
